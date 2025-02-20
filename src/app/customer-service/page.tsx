@@ -18,7 +18,6 @@ export default function CustomerServicePage() {
       </main>
       <footer className="bg-gray-700 text-white p-4 mt-10">
         <div className="container mx-auto flex justify-between">
-          <p>&copy; 2025 WDD430 Team Project</p>
         </div>
       </footer>
     </div>
