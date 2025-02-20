@@ -12,7 +12,7 @@ export default function CustomerServicePage() {
         <p>If you have any questions or need assistance, please contact our support team:</p>
         <p className="mt-4"><strong>Email:</strong> support@wdd430team.com</p>
         <p className="mt-2"><strong>Phone:</strong> 1-800-123-4567</p>
-         <Link href="/" className="mt-4 inline-block bg-orange-500 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-600">
+        <Link href="/" className="mt-4 inline-block bg-orange-500 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-600">
           Go Home
         </Link>
       </main>
